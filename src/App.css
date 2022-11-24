@@ -1,0 +1,19 @@
+#root {
+  max-width: 1400px;
+  min-width: 1200px;
+  /* margin: 0 auto; */
+  background-image: url("https://i.ibb.co/WybhSVF/67005-1.png");
+  width: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  /* padding-bottom: 100px; */
+}
+
+body {
+  width: 100vw;
+}
+
+html {
+  outline: none;
+}
